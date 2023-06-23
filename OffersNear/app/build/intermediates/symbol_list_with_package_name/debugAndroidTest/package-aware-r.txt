@@ -1,0 +1,3 @@
+com.example.offersnear.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

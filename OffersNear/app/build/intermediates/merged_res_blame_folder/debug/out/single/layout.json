@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/abhishekjoshi/.gradle/daemon/7.5/com.example.offersnear.app-mergeDebugResources-35:/layout/header.xml",
+        "source": "/Users/abhishekjoshi/.gradle/daemon/7.5/com.example.offersnear.app-main-38:/layout/header.xml"
+    },
+    {
+        "merged": "/Users/abhishekjoshi/.gradle/daemon/7.5/com.example.offersnear.app-mergeDebugResources-35:/layout/activity_maps.xml",
+        "source": "/Users/abhishekjoshi/.gradle/daemon/7.5/com.example.offersnear.app-main-38:/layout/activity_maps.xml"
+    },
+    {
+        "merged": "/Users/abhishekjoshi/.gradle/daemon/7.5/com.example.offersnear.app-mergeDebugResources-35:/layout/activity_register.xml",
+        "source": "/Users/abhishekjoshi/.gradle/daemon/7.5/com.example.offersnear.app-main-38:/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/abhishekjoshi/.gradle/daemon/7.5/com.example.offersnear.app-mergeDebugResources-35:/layout/activity_google_sign_in_actvity.xml",
+        "source": "/Users/abhishekjoshi/.gradle/daemon/7.5/com.example.offersnear.app-main-38:/layout/activity_google_sign_in_actvity.xml"
+    },
+    {
+        "merged": "/Users/abhishekjoshi/.gradle/daemon/7.5/com.example.offersnear.app-mergeDebugResources-35:/layout/fragment_trendy_offers.xml",
+        "source": "/Users/abhishekjoshi/.gradle/daemon/7.5/com.example.offersnear.app-main-38:/layout/fragment_trendy_offers.xml"
+    },
+    {
+        "merged": "com.example.offersnear.app-mergeDebugResources-35:/layout/fragment_trendy_offers.xml",
+        "source": "com.example.offersnear.app-main-38:/layout/fragment_trendy_offers.xml"
+    },
+    {
+        "merged": "/Users/abhishekjoshi/.gradle/daemon/7.5/com.example.offersnear.app-mergeDebugResources-35:/layout/activity_home.xml",
+        "source": "/Users/abhishekjoshi/.gradle/daemon/7.5/com.example.offersnear.app-main-38:/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/abhishekjoshi/.gradle/daemon/7.5/com.example.offersnear.app-mergeDebugResources-35:/layout/activity_main.xml",
+        "source": "/Users/abhishekjoshi/.gradle/daemon/7.5/com.example.offersnear.app-main-38:/layout/activity_main.xml"
+    }
+]
